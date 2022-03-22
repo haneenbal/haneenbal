@@ -2,7 +2,7 @@
 
 ## ABOUT ME
 
-:raising_hand: I'm a senior computer science student who is struggling.
+:raising_hand: I'm a senior computer science undergraduate student.
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 - 🎓 College student
 
