@@ -8,7 +8,7 @@
 
 - 🌱 Studying Computer Science
 
-- 📫 How to reach me neeno7@hotmail.com
+- 📫 How to reach me hanin.balbaid@gmail.com
 
 - 🧪Interested in AI
 
